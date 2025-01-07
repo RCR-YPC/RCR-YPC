@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Yash, product manager for iRefer working with the Royal college of Radiologists. 
+
 <!--
 **RCR-YPC/RCR-YPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
